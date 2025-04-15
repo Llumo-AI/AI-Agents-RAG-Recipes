@@ -45,6 +45,41 @@ Some advanced techniques you’ll find here include:
 And much more!
 
 ---
+## Agentic RAG  ⚙️  
+Here are the details of all the Agentic RAG use cases covered in this repository.
+
+| Title            | Description                                                                 | GitHub (link) |
+|------------------|-----------------------------------------------------------------------------|----------------|
+| Finacial Ai Agent | Uses AI agents with vectordb and web search to retrieve and generate answers. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agentic-Rag/Financial_AI_Agents_RAG_AGNO.ipynb) |
+| Email Voice Assistant    | Refines relevant documents, removes irrelevant ones or performs web search. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agentic-Rag/email_voice_assistant.ipynb) |
+| Followup Automation Agent         | Reflects on retrieved data to ensure accurate and complete responses.       | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agentic-Rag/followup_automation_agent.ipynb) |
+
+## Agents  ⚙️  
+Here are the details of all the Agents use cases covered in this repository.
+
+| Title            | Description                                                                 | GitHub (link) |
+|------------------|-----------------------------------------------------------------------------|----------------|
+| YouTube Summarizer | Uses AI agents with vectordb and web search to retrieve and generate answers. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/YouTube_Summarizer_Agno.ipynb) |
+| Trip Planner AI  | Refines relevant documents, removes irrelevant ones or performs web search. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/Text_Based_Travel_Booking_Agent.ipynb) |
+| DevOps Assistant | Reflects on retrieved data to ensure accurate and complete responses.       | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/DevOps_Command_Assistant.ipynb) |
+| HelpDesk Assistant | Refines relevant documents, removes irrelevant ones or performs web search. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/Customer_Support_Conversation_Agent.ipynb) |
+| WebSummarizer AI | Reflects on retrieved data to ensure accurate and complete responses.       | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/Autonomous_Web_Crawling_%26_Content_Summarization_Agent.ipynb) |
+
+
+## Rag  ⚙️  
+Here are the details of all the Rag use cases covered in this repository.
+
+| Title            | Description                                                                 | GitHub (link) |
+|------------------|-----------------------------------------------------------------------------|----------------|
+| Ask My PDF | Uses AI agents with vectordb and web search to retrieve and generate answers. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/RAG/Chat_with_pdf.ipynb) |
+| Sales Strategy Builder  | Refines relevant documents, removes irrelevant ones or performs web search. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/RAG/Sales_Strategy_Builder.ipynb) |
+| MultiMind RAG | Reflects on retrieved data to ensure accurate and complete responses.       | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/RAG/multi_source_helpdesk_faq_bot.ipynb) |
+| Table Data Q/A | Refines relevant documents, removes irrelevant ones or performs web search. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/RAG/table_data_qa.ipynb) |
+
+
+
+
+
 
 ## 🤖 Agentic RAG: Taking It a Step Further
 
