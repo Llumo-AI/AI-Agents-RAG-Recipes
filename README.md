@@ -50,8 +50,8 @@ Here are the details of all the Agentic RAG use cases covered in this repository
 
 | Title            | Description                                                                 | GitHub (link) |
 |------------------|-----------------------------------------------------------------------------|----------------|
-| Finacial Ai Agent | Uses AI agents with vectordb and web search to retrieve and generate answers. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agentic-Rag/Financial_AI_Agents_RAG_AGNO.ipynb) |
-| Email Voice Assistant    | Refines relevant documents, removes irrelevant ones or performs web search. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agentic-Rag/email_voice_assistant.ipynb) |
+| Finacial Ai Agent | This Colab notebook showcases a multi-agent Conversational AI system for financial intelligence using the Google Gemini model, AGNO AI’s agent framework, DuckDuckGoTools, and YFinanceTools. It performs web research, stock analysis, macroeconomic trend tracking, and cryptocurrency insights using RAG-based retrieval. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agentic-Rag/Financial_AI_Agents_RAG_AGNO.ipynb) |
+| Email Voice Assistant    | This Colab notebook builds a voice-controlled assistant using OpenAI GPT-4o, Whisper, Gradio, and function calling to send emails and schedule meetings. It transcribes audio input, interprets commands, and triggers functions like send_email and schedule_meeting with natural voice interaction. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agentic-Rag/email_voice_assistant.ipynb) |
 | Followup Automation Agent         | Reflects on retrieved data to ensure accurate and complete responses.       | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agentic-Rag/followup_automation_agent.ipynb) |
 
 ## Agents  ⚙️  
