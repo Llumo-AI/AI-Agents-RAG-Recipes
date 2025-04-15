@@ -1,4 +1,4 @@
-
+(https://www.linkedin.com/company/llumoai)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue)](https://www.linkedin.com/company/llumoai)&nbsp;
 # AI-Agents-RAG-Recipes
 
