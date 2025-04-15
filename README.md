@@ -1,3 +1,5 @@
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue)](https://www.linkedin.com/company/llumoai)&nbsp;
 # AI-Agents-RAG-Recipes
 
 Practical AI recipes for building intelligent agentic workflows and optimizing RAG-based LLM applications.
