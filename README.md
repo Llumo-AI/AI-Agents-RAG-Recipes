@@ -62,11 +62,11 @@ Here are the details of all the Agents use cases covered in this repository.
 
 | Title            | Description                                                                 | GitHub (link) |
 |------------------|-----------------------------------------------------------------------------|----------------|
-| YouTube Summarizer | Uses AI agents with vectordb and web search to retrieve and generate answers. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/YouTube_Summarizer_Agno.ipynb) |
-| Trip Planner AI  | Refines relevant documents, removes irrelevant ones or performs web search. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/Text_Based_Travel_Booking_Agent.ipynb) |
+| YouTube Summarizer | This Colab notebook builds a YouTube summarization agent using agno.ai, OpenAI GPT-4o, and YouTube transcript tools. It extracts video transcripts, identifies key segments with timestamps, and generates clear, structured summaries. Ideal for fast video analysis, content research, or review—streamlined with markdown formatting and agent-based orchestration. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/YouTube_Summarizer_Agno.ipynb) |
+| Trip Planner AI  | This Colab notebook builds a text-based travel booking agent using OpenAI GPT-4o and function calling. It enables conversational booking of flights and hotels, integrates tool execution, and evaluates performance via Llumo Agentic API. Ideal for prototyping travel bots and demonstrating agentic workflows with real-time booking logic. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/Text_Based_Travel_Booking_Agent.ipynb) |
 | DevOps Assistant | Reflects on retrieved data to ensure accurate and complete responses.       | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/DevOps_Command_Assistant.ipynb) |
 | HelpDesk Assistant | Refines relevant documents, removes irrelevant ones or performs web search. | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/Customer_Support_Conversation_Agent.ipynb) |
-| WebSummarizer AI | Reflects on retrieved data to ensure accurate and complete responses.       | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/Autonomous_Web_Crawling_%26_Content_Summarization_Agent.ipynb) |
+| WebSummarizer AI |  This Colab notebook builds a web agent that extracts and summarizes full article content from any URL using Newspaper3k, OpenAI, and Agno. Ideal for media monitoring, research, or RAG pipelines, it outputs clean, human-readable summaries in markdown for easy analysis and downstream use.   | [🔗 GitHub](https://github.com/Llumo-AI/AI-Agents-RAG-Recipes/blob/main/Agents/Autonomous_Web_Crawling_%26_Content_Summarization_Agent.ipynb) |
 
 
 ## Rag  ⚙️  
