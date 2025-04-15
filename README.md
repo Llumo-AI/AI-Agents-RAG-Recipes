@@ -1,4 +1,4 @@
-[![Company](https://www.linkedin.com/company/llumoai)&nbsp;
+[![Company](https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/t1zjaxp5qqcypqkcgooi)](https://www.linkedin.com/company/llumoai)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue)](https://www.linkedin.com/company/llumoai)&nbsp;
 # AI-Agents-RAG-Recipes
 
